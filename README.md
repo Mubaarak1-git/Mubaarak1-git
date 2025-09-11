@@ -1,7 +1,7 @@
  ### 👋 Hi, I’m Mubarak Mohamed
 - 👀 I’m interested in Cloud computing 
 - 🌱 I’m currently Applying Azure Cloud Projects   
-- 💞️ I’m recentely earned🏅 [Learn Microsoft Badge – View Certificate](https://learn.microsoft.com/en-gb/users/mubarakmaxamed-2574/achievements/9yg2fzsu)
+- 💞️ I’m recentely earned🏅 Microsoft Azure resources management Badge – View Certificate](https://learn.microsoft.com/en-gb/users/mubarakmaxamed-2574/achievements/9yg2fzsu)
 - 📫 How to reach me at mubaarakmaxamed5583@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
