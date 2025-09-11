@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mubaarak1-git
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my new small projects
+ ### 👋 Hi, I’m Mubarak Mohamed
+- 👀 I’m interested in Cloud computing 
+- 🌱 I’m currently Applying Azure Cloud Projects   
+- 💞️ I’m recentely earned [![LearnMicrosoft Badge]([https://your-badge-image-url.com](https://learn.microsoft.com/en-gb/users/mubarakmaxamed-2574/achievements/9yg2fzsu))](https://your-badge-link.com)
 - 📫 How to reach me at mubaarakmaxamed5583@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
