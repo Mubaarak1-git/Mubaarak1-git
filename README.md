@@ -4,12 +4,13 @@ Cloud computing specialist, technical writer, and aspiring entrepreneur based in
 
 ## 🚀 Projects
 - Azure vNet Peering Lab Hands-on walkthrough with sequential screenshots, Markdown captions, and GitHub Discussions to narrate technical and emotional growth.<br>
-**Earned:** September 9, 2025  
-**Description:** Successfully completed a Microsoft Learn module focused on Azure fundamentals, reinforcing key concepts in cloudExplore an Azure subscription. Manage virtual machines,Manage virtual networks Manage storage Use tags and resource locks. Use Copilot to help manage infrastructure.  
-**Why it matters:** This badge marks a pivotal step in my journey toward mastering Infrastructure as Code and building secure, scalable solutions for East African SMEs. It reflects my commitment to hands-on learning and technical excellence in the Azure ecosystem.
-- 📫 How to reach me at mubaarakmaxamed5583@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 📫 Contact
+- 📧 Email: mubaarakmaxamed5583@gmail.com
+
+- 🌐 LinkedIn: [Mubarak Mohamed](https://www.linkedin.com/in/mubarak-mohamed-81bb16209/)
+
+- 🗂️ GitHub: github.com/mubarak-tech
 
 <!---
 Mubaarak1-git/Mubaarak1-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
