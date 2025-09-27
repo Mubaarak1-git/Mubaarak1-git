@@ -4,7 +4,7 @@
 
 ## 🧠 About Me 
 I'm a junior cloud computing engineer based in Hargeisa, Somaliland. I specialize in Microsoft Azure infrastructure and resource management. My journey is driven by hands-on learning, lab documentation, and a commitment to building reproducible cloud workflows.
-— a junior cloud computing engineer based in Hargeisa, Somaliland. <br>
+
 
   ## 🏅 Certifications 
 
