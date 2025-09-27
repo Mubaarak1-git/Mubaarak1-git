@@ -1,5 +1,4 @@
-🌍 About Me, 🚀 Projects, 🎓 Certifications, 📫 Contact <br>
-# 🌍 About Me
+
 <h1 align="center">Hi 👋, I'm Mubarak Mohamed</h1> 
 <p align="center">🌍 Junior Cloud Engineer | 📘 AZ-900 & AZ-104 Certified | 🧪 Hands-on Azure Labs</p>
 ## 🧠 About Me <br> 
