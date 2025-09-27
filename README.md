@@ -8,8 +8,8 @@ I'm a junior cloud computing engineer based in Hargeisa, Somaliland. I specializ
 
   ## 🏅 Certifications 
 
-![AZ-900](https://img.shields.io/badge/AZ--900-Certified-blue)
-![AZ-104](https://img.shields.io/badge/AZ--104-Certified-blue)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Certified-blue)](https://approval.edukamu.fi/v2/?code=TVRSaVpUSTFNbVJpTTJKbE9UQXdPREV6WkRNMVpHWTVOekJpWWpCbFlqVTZWVEpHYzJSSFZtdFlNVGxzZUdWTVZIZHBVa0ZWZWpOWlJqbEdaRTFvY1hWQ2RtaE9ZbFJ1TDNKblpYazBRMXB2VlRGWmRXbE9jR2x6VEd0RVVGQjFVbUZVU0hsNFVEVmtNM2gyY21oSGQwRnJXbkZDV1hGaGNXRkNSM3A0YVVOdFJucFVSVFIzZERSb2RHTTk=)
+[![AZ-104](https://img.shields.io/badge/AZ--104-Certified-blue)](https://approval.edukamu.fi/v2/?code=TUdWaU1qZ3dORE0yTmpVMllqRTJNRE5qTUdWaVltVXlaams0WVdNd00yWTZWVEpHYzJSSFZtdFlNVGwzYzFvNVl6bHRZMmgyWW1Gd2R5OU9la1ZTVkRWWWJGRkhTbXBwVlZSWE1sYzVRbUpKTmxvd1JUbDVOazgyWW1SNmRGYzRjRVZOUTFGSlpuQTNTRWR5VkdsUFJVOUZUV1JsZGtsWk1EVjJOVGxaVWpGSk9XRnFkamM1TlhoSE1Fazk=)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Badge%20Earned-success)
 ## 🧪 Featured Labs
 
