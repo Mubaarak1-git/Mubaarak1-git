@@ -27,7 +27,8 @@ Each lab includes step-by-step screenshots, clear captions, and practical use ca
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
 ## 📫 Contact Me
 
-- 📧 Email: mubaarkmamed5533@gmail.com  
+- 📧 Email: mubaarkmamed5533@gmail.com
+- 🌐 LinkedIn: [Mubarak Mohamed](https://www.linkedin.com/in/mubarak-mohamed-81bb16209/)
 - 🌐 Location: Hargeisa, Somaliland  
 - 💬 Pronouns: he / him
 
@@ -35,29 +36,10 @@ Each lab includes step-by-step screenshots, clear captions, and practical use ca
   <img src="https://komarev.com/ghpvc/?username=Mubaarak1-git&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
-📘 I’ve earned certifications in Microsoft Azure Fundamentals (AZ-900) and Azure Administrator (AZ-104), with a strong focus on resource management and infrastructure operations.
 
-### 🧪 My hands-on experience includes building and documenting three key labs:
-- Azure Virtual Network (vNet) Creation
-- Azure vNet Peering Configuration
-- Azure Resource Tagging and Filtering
 
-#### 🔍 I’m passionate about learning by doing—creating reproducible labs, troubleshooting real-world scenarios, and documenting workflows that strengthen my technical foundation.
 
-📫 Reach me at: mubaarkmamed5533@gmail.com
- <br>
 
-## 🚀 Projects
-- Azure vNet Peering Lab Hands-on walkthrough with sequential screenshots, Markdown captions, and GitHub Discussions to narrate technical and emotional growth.<br>
-## 🛠️ Skills
-## 🎓 Certifications
-## 📫 Contact
-
-- 📧 Email: mubaarakmaxamed5583@gmail.com
-
-- 🌐 LinkedIn: [Mubarak Mohamed](https://www.linkedin.com/in/mubarak-mohamed-81bb16209/)
-
-- 🗂️ GitHub: github.com/mubarak-tech
 
 <!---
 Mubaarak1-git/Mubaarak1-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
