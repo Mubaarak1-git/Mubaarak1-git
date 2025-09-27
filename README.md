@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Mubarak Mohamed</h1> 
 <p align="center">🌍 Junior Cloud Engineer | 📘 AZ-900 & AZ-104 Certified | 🧪 Hands-on Azure Labs</p>
-## 🧠 About Me <br> 
+
+## 🧠 About Me 
 I'm a junior cloud computing engineer based in Hargeisa, Somaliland. I specialize in Microsoft Azure infrastructure and resource management. My journey is driven by hands-on learning, lab documentation, and a commitment to building reproducible cloud workflows.
 — a junior cloud computing engineer based in Hargeisa, Somaliland. <br>
-## 🏅 Certifications
+
+  ## 🏅 Certifications 
 
 ![AZ-900](https://img.shields.io/badge/AZ--900-Certified-blue)
 ![AZ-104](https://img.shields.io/badge/AZ--104-Certified-blue)
