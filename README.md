@@ -3,7 +3,7 @@
 <p align="center">🌍 Junior Cloud Engineer | 📘 AZ-900 & AZ-104 Certified | 🧪 Hands-on Azure Labs</p>
 
 ## 🧠 About Me 
-I'm a junior cloud computing engineer based in Hargeisa, Somaliland. I specialize in Microsoft Azure infrastructure and resource management. My journey is driven by hands-on learning, lab documentation, and a commitment to building reproducible cloud workflows.
+I'm a junior cloud computing engineer based in Hargeisa, Somaliland, focused on building resilient and reproducible cloud workflows using Microsoft Azure. My journey is driven by hands-on learning, clear documentation, and a commitment to solving real infrastructure challenges. I work with virtual networks, resource tagging, and VM lifecycle operations—always refining my labs to reflect what I’ve truly built.
 
 
   ## 🏅 Certifications 
@@ -13,11 +13,13 @@ I'm a junior cloud computing engineer based in Hargeisa, Somaliland. I specializ
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Badge%20Earned-success)
 ## 🧪 Featured Labs
 
-Here are three hands-on labs I've built and documented:
+Each lab includes step-by-step screenshots, technical narration, and practical use cases:
 
-- 🔹 [Azure Virtual Network Lab](https://github.com/Mubaarak1-git/Azure-VN-lab) – Create and configure a vNet in Azure Portal  
-- 🔹 [Azure vNet Peering Lab](https://github.com/Mubaarak1-git/Azure-VNet-Peering-Lab) – Establish secure connectivity between networks  
-- 🔹 [Azure Tags Lab](https://github.com/Mubaarak1-git/Azure-Tags-Lab) – Apply and manage resource tags for better organization  
+- 🔹 [Azure Virtual Network Lab](https://github.com/Mubaarak1-git/Azure-VN-lab) <br>Create and configure a vNet in Azure Portal with subnet planning and address space setup. 
+- 🔹 [Azure vNet Peering Lab](https://github.com/Mubaarak1-git/Azure-VNet-Peering-Lab) <br>Establish secure connectivity between networks across regions with traffic flow validation. 
+- 🔹 [Azure Tags Lab](https://github.com/Mubaarak1-git/Azure-Tags-Lab) <br>Apply and manage resource tags for cost tracking, environment separation, and automation.
+  
+- 🔹 [Redeploy & Reapply VM Lab (NEW)] Troubleshoot VM issues by redeploying and reapplying configurations—ensuring high availability and recovery readiness. Includes snapshot strategy and zone-aware deployment.
 
 Each lab includes step-by-step screenshots, clear captions, and practical use cases.
 ## 🛠️ Skills & Tools
