@@ -31,7 +31,7 @@ Each lab includes step-by-step screenshots, clear captions, and practical use ca
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
 ## 📫 Contact Me
 
-- 📧 Email: mubaarkmamed5533@gmail.com
+- 📧 Email: mubaarakmaxamed5583@gmail.com
 - 🌐 LinkedIn: [Mubarak Mohamed](https://www.linkedin.com/in/mubarak-mohamed-81bb16209/)
 - 🌐 Location: Hargeisa, Somaliland  
 - 💬 Pronouns: he / him
