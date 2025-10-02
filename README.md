@@ -21,7 +21,7 @@ Each lab includes step-by-step screenshots, technical narration, and practical u
   
 - 🔹 [Redeploy & Reapply VM Lab ](https://github.com/Mubaarak1-git/Redeploy-Reapply-VM-Lab-.git) Troubleshoot VM issues by redeploying and reapplying configurations—ensuring high availability and recovery readiness. Includes snapshot strategy and zone-aware deployment.
 
-- 🔹 [Configure a vNet in Azure]([https://github.com/Mubaarak1-git/Redeploy-Reapply-VM-Lab-.git](https://github.com/Mubaarak1-git/AzureLab-Configure-vNet-Subnet.git)) Troubleshoot VM issues by redeploying and reapplying configurations—ensuring high availability and recovery readiness. Includes snapshot strategy and zone-aware deployment.
+- 🔹 [Configure a vNet in Azure](https://github.com/Mubaarak1-git/AzureLab-Configure-vNet-Subnet.git) Troubleshoot VM issues by redeploying and reapplying configurations—ensuring high availability and recovery readiness. Includes snapshot strategy and zone-aware deployment.
 
 
 Each lab includes step-by-step screenshots, clear captions, and practical use cases.
@@ -32,16 +32,23 @@ Each lab includes step-by-step screenshots, clear captions, and practical use ca
 - **Azure Administrator (AZ-104)** – Officially trained via Kajaani University & Microsoft collaboration
 
 - **Terraform** – In progress (Infrastructure as Code)
+
+
+**📝 Documentation & Narration**  
+- Proficient in **Markdown** for clean, structured technical documentation  
+- Skilled in crafting **inspirational and clarity-focused narratives** for cloud workflows  
+- Committed to **industry-aligned, professionally impactful documentation** that reflects real-world lab experience  
+- Experienced in documenting Azure resource management, tagging strategies, and VM lifecycle operations
 ## 📫 Contact Me
 
 - 📧 Email: mubaarakmaxamed5583@gmail.com
 - 🌐 LinkedIn: [Mubarak Mohamed](https://www.linkedin.com/in/mubarak-mohamed-81bb16209/)
 - 🌐 Location: Hargeisa, Somaliland  
-- 💬 Pronouns: he / him
 
+<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mubaarak1-git&style=for-the-badge&color=blue" alt="Profile views"/>
-</p>
+</p> -->
 
 
 
