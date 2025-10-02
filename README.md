@@ -4,7 +4,7 @@
 <p align="center">📘 Azure Fundamentals & Administrator – Certified via Kajaani University & Microsoft Collaboration </p>
 
 ## 🧠 About Me 
-I'm a junior cloud computing engineer strategically located in Somaliland, focused on building resilient and reproducible cloud workflows using Microsoft Azure. My journey is shaped by hands-on learning, clear documentation, and a commitment to solving real infrastructure challenges. I work confidently across the Azure portal—from virtual networks to resource tagging and VM lifecycle operations—translating lab experience into practical, real-world execution.
+I'm a junior cloud computing engineer focused on building resilient and reproducible cloud workflows using Microsoft Azure. My journey is shaped by hands-on learning, clear documentation, and a commitment to solving real infrastructure challenges. I work confidently across the Azure portal—from virtual networks to resource tagging and VM lifecycle operations—translating lab experience into practical, real-world execution.
 
   ## 🏅 Certifications 
 
@@ -21,7 +21,7 @@ Each lab includes step-by-step screenshots, technical narration, and practical u
   
 - 🔹 [Redeploy & Reapply VM Lab ](https://github.com/Mubaarak1-git/Redeploy-Reapply-VM-Lab-.git) Troubleshoot VM issues by redeploying and reapplying configurations—ensuring high availability and recovery readiness. Includes snapshot strategy and zone-aware deployment.
 
-- 🔹 [Configure a vNet in Azure](https://github.com/Mubaarak1-git/AzureLab-Configure-vNet-Subnet.git) Troubleshoot VM issues by redeploying and reapplying configurations—ensuring high availability and recovery readiness. Includes snapshot strategy and zone-aware deployment.
+- 🔹 [Configure a vNet in Azure](https://github.com/Mubaarak1-git/AzureLab-Configure-vNet-Subnet.git) Configure a virtual network (vNet) in Azure to securely connect and isolate cloud resources within a customizable IP address space.
 
 
 Each lab includes step-by-step screenshots, clear captions, and practical use cases.
