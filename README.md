@@ -41,9 +41,10 @@ Each lab includes step-by-step screenshots, clear captions, and practical use ca
 - Experienced in documenting Azure resource management, tagging strategies, and VM lifecycle operations
 ## 📫 Contact Me
 
-- 📧 Email: mubaarakmaxamed5583@gmail.com
-- 🌐 LinkedIn: [Mubarak Mohamed](https://www.linkedin.com/in/mubarak-mohamed-81bb16209/)
-- 🌐 Location: Hargeisa, Somaliland  
+- **📧 Email:** mubaarakmaxamed5583@gmail.com
+- **🧑‍💼 LinkedIn:** [Mubarak Mohamed](https://www.linkedin.com/in/mubarak-mohamed-81bb16209/)
+- **🌐 Website:** [Mubarak cloud Site](https://mubarakcloudengineer.my.canva.site/)
+- **📍 Location:** Hargeisa, Somaliland  
 
 <!-- 
 <p align="center">
