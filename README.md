@@ -15,7 +15,7 @@ I'm a junior cloud computing engineer focused on building resilient and reproduc
 
 Each lab includes step-by-step screenshots, technical narration, and practical use cases:
 
-- 🔹 [Azure Virtual Network Lab](https://github.com/Mubaarak1-git/Azure-VN-lab) <br>Create and configure a vNet in Azure Portal with subnet planning and address space setup. 
+- 🔹 [Azure Virtual Network Lab](https://github.com/Mubaarak1-git/Azure-VM-Lab.git) <br>Hands-on Azure lab demonstrating full VM deployment, disk configuration, network setup, and resource cleanup using best practices in the Azure portal. 
 - 🔹 [Azure vNet Peering Lab](https://github.com/Mubaarak1-git/Azure-VNet-Peering-Lab) <br>Establish secure connectivity between networks across regions with traffic flow validation. 
 - 🔹 [Azure Tags Lab](https://github.com/Mubaarak1-git/Azure-Tags-Lab) <br>Apply and manage resource tags for cost tracking, environment separation, and automation.
   
